@@ -1,9 +1,9 @@
 <template>
-  <Tutorial/>
+  <div class="">fghfghghgggggggg</div>
 </template>
 
 <script>
 export default {
-  name: 'IndexPage'
-}
+  name: "swap",
+};
 </script>
