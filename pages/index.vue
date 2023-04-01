@@ -1,9 +1,13 @@
 <template>
-  <div class="">fghfghghgggggggg</div>
+  <v-card flat min-height="80vh">
+    <v-container class="mb-12">
+    </v-container>
+  </v-card>
 </template>
 
 <script>
 export default {
-  name: "swap",
-};
+  name: "Home",
+  layout: 'defaultLayout',
+}
 </script>
